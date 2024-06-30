@@ -23,12 +23,5 @@
 
    <label for="response">Please enter your response hear*</label><br>
    <input type="text" value="response" name="response" style="width:70%">
-
-
-
-
-
-
-
 </body>
-</html># Example
+</html>
